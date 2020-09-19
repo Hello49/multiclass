@@ -8,10 +8,13 @@ and Predict Which Algo is Better for This Type of Problem <br>
 Model 1 : Multilayer Perceptron<br>
 MOdel 2 : Naive Bayes (multinomial NB)<br>
 Model 3 : KNeighborsClassifier <br>
+Model 4 : Decision Tree <br>
+Model 5 : Random Forest <br>
+
+Final Model : Bagging & Boosting <br> 
 <br><br>
 For Special Visualisation :<br>
 goto  https://projector.tensorflow.org/<br>
 <br>
 on load section upload vecs.tsv  on Vector Section (Step 1) <br>
 and on  metadata section upload meta.tsv (step 2)<br>
-
