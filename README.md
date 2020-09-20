@@ -18,3 +18,9 @@ goto  https://projector.tensorflow.org/<br>
 <br>
 on load section upload vecs.tsv  on Vector Section (Step 1) <br>
 and on  metadata section upload meta.tsv (step 2)<br>
+
+<br>
+<h1>
+Results are in Verzeo_final.pdf
+</h1>
+<br>
